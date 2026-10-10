@@ -160,12 +160,3 @@ The engine combines:
 
 All component weights are **normalised by the number of active components**, so selecting only one preference works just as well as selecting many.
 
----
-
-## TMDB Attribution
-
-This product uses the TMDB API but is not endorsed or certified by TMDB.
-
-Movie data © TMDB contributors. Images © respective rights holders.
-
-![TMDB Logo](https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg)
